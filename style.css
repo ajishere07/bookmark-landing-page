@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.attribution {
+  margin: 0 auto;
+  width: 1440px;
+  font-size: 15px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
